@@ -4,5 +4,5 @@ lr: 0.003
 model_name: resnet50
 normalize_method: base
 object_dataset: cifar
-resample_ratio: 0.3
+resample_ratio: 0.5
 trained_model: true
