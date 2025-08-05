@@ -1,8 +1,8 @@
-batch_size: 128
+batch_size: 64
 epoch: 1000
 lr: 0.01
 model_name: resnet50
 normalize_method: base
-object_dataset: cifar
+object_dataset: imagenet
 resample_ratio: 0.7
 trained_model: true
